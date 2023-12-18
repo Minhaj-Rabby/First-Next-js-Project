@@ -15,7 +15,7 @@ const page = () => {
   return (
     <div>
 
-      <h1>This About page</h1>
+      <h1 className='headline'>This About page</h1>
       <Link href="/">Go to Home</Link>
       <br />
       <Link href="/login">Go to Login</Link>

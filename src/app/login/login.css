@@ -1,0 +1,19 @@
+.layout-menu{
+    display: flex;
+}
+.layout-menu li{
+    margin-left: 20px;
+    list-style-type: none;
+}
+.layout-menu a{
+text-decoration: none;
+}
+
+.layout-menu li h3{
+    margin-top: 0px;
+}
+
+.headline{
+    color: orange;
+    text-align: center;
+}

@@ -13,7 +13,7 @@ const page = () => {
 
   return (
     <div>
-      <h1>This Login page</h1>
+      <h1 className='headline'>This Login page</h1>
       <Link href="/">Go to Home</Link>
       <br />
       <Link href="/about">Go to About</Link>

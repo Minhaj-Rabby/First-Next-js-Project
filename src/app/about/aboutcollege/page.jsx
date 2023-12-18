@@ -4,7 +4,7 @@ import React from 'react'
 const AboutCollege = () => {
     return (
         <div>
-            <h1>About College </h1>
+            <h1 className='headline'>About College </h1>
             <Link href="/about">Go to about HomePage</Link>
         </div>
     )
